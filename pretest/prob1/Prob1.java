@@ -23,7 +23,7 @@ public class Prob1 {
 		if(num.length > 2) {
 		for(int i = 0; i < num.length ; i++) {
 			
-			//I just can't remember how to do the adjacent number without going out of bounds
+			
 			test = num[i] - num[i];
 			
 			if(test > max) {
